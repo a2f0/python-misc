@@ -8,4 +8,4 @@ activate it
 
 upgrade pip
 
-    python3 -m pip install --upgrade pip# python-threading
+    python3 -m pip install --upgrade pip
